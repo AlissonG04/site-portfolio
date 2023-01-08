@@ -18,8 +18,8 @@ h2 {
   margin: 0px;
   padding: 0px;
 }
-h2.verde {
-  color: #219653;
+h2.azul {
+  color: #108cd3;
 }
 h5 {
   font-family: "Montserrat", sans-serif;
@@ -30,7 +30,7 @@ h5 {
 button {
   height: 56px;
   border-radius: 16px;
-  background-color: #219653;
+  background-color: #108cd3;
   border-width: 0px;
   color: #fefefe;
   font-size: 16px;
@@ -128,8 +128,8 @@ a {
 .hero-info-image {
   height: 100%;
   width: 542px;
-  border-radius: 40px;
-  border-color: #219653;
+  border-radius: 50%;
+  border-color: #108cd3;
   border-width: 4px;
   border-style: solid;
 }
@@ -184,7 +184,7 @@ a {
   width: 80px;
   height: 80px;
   border-radius: 40px;
-  background-color: #219653;
+  background-color: #108cd3;
   margin-bottom: 12px;
 }
 .ability-card-icon-img {
