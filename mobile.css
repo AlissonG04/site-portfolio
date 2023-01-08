@@ -9,6 +9,9 @@
   h5 {
     font-size: 36px;
   }
+  p {
+    font-size: 24px;
+  }
   bottom {
     height: 80px;
     font-size: 24px;
@@ -20,6 +23,10 @@
     margin-top: 12px;
     text-align: center;
     max-width: 70%;
+  }
+  a {
+    font-size: 28px;
+    color: #1e1e1e;
   }
   .content-container {
     width: 94vw;
@@ -104,11 +111,19 @@
     width: 40px;
     height: auto;
   }
+  .section-experiences {
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
   .section-experiences-card {
-    width: 90vw;
+    width: 94%;
+    margin-top: 40px;
+  }
+  .section-contact {
+    padding-bottom: 60px;
   }
   .footer-content {
-    width: 100%;
+    width: 94vw;
   }
   .hero-info-icons-img {
     width: 56px;
